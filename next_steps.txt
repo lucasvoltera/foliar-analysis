@@ -1,0 +1,7 @@
+
+
+1. melhorar a interpolação do segundo talhão
+2. criar uma arquitetura melhor da rede neural
+3. testar tanto a rede neural quanto os outros modelos usando o gridsearch pra otimizar o resultado
+4. corrigir possiveis bugs
+5. criar outras analises espaciais??
